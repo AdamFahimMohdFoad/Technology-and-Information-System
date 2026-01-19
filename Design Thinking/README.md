@@ -17,6 +17,10 @@ The design thinking project made me understand on how certain systems or applica
 
 The project needs to be presented in class so that it simulates the project being done and presented in the real-world scenario.
 
+## Design Thinking Report 
+
+
+
 
 
 
