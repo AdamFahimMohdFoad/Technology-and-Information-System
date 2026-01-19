@@ -24,6 +24,19 @@ The project needs to be presented in class so that it simulates the project bein
   <img src="https://github.com/AdamFahimMohdFoad/Technology-and-Information-System/blob/main/Design%20Thinking/Image/click%20me.png" alt= "Click me" width ="500">
 </a>
 </p>
+
+## Design Thinking Video 
+Interview Session
+
+<p align ="center">
+  <a href="https://youtu.be/aaZYw5HncQs?si=VLZ5xPmGoK83VRN8">
+  <img src="https://github.com/AdamFahimMohdFoad/Technology-and-Information-System/blob/main/Design%20Thinking/Image/click%20me.png" alt= "Click me" width ="500">
+</a>
+</p>
+
+
+
+
     
 
 
