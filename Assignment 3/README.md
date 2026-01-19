@@ -25,7 +25,7 @@ The talk needs to be held offline so that the participants who attend the talk g
 ## Report 
 <p align ="center">
   <a href="https://drive.google.com/file/d/1XHqN3eLuM6qfp7gBTqJoH5pGS799eCot/view?usp=sharing">
-  <img src="https://github.com/AdamFahimMohdFoad/SECP1513-Technology--and--Information-System/blob/main/Assignment%203%20%5B%20Report%20%5D/images/Untitled%20design%20(1).png" alt= "Click me" width ="500">
+  <img src="https://github.com/AdamFahimMohdFoad/Technology-and-Information-System/blob/main/Assignment%203/Image/click%20me.png" alt= "Click me" width ="500">
 </a>
 </p>
 
