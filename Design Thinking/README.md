@@ -20,8 +20,8 @@ The project needs to be presented in class so that it simulates the project bein
 ## Design Thinking Report 
 
 <p align ="center">
-  <a href="https://drive.google.com/file/d/19tWpfNwRB1Xbzgsaj7ess_LFHw-5FxNi/view?usp=drive_link">
-  <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%201%20%5B%20Vlog%20UTMDigital%20%5D/images/Untitled%20design%20(1).png" alt= "Click me" width ="500">
+  <a href="https://drive.google.com/file/d/1Z3g3_2Vekg2EhhjFwM8gqHJ_Uh9frdCq/view">
+  <img src="https://github.com/AdamFahimMohdFoad/Technology-and-Information-System/blob/main/Design%20Thinking/Image/click%20me.png" alt= "Click me" width ="500">
 </a>
 </p>
     
