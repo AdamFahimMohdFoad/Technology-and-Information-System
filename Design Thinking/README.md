@@ -34,8 +34,13 @@ Interview Session
 </a>
 </p>
 
+Presentation 
 
-
+<p align ="center">
+  <a href="https://drive.google.com/file/d/1P-QOZB56sxAzlPlqEYSRu9kzq51K8bKB/view?usp=sharing">
+  <img src="https://github.com/AdamFahimMohdFoad/Technology-and-Information-System/blob/main/Design%20Thinking/Image/click%20me.png" alt= "Click me" width ="500">
+</a>
+</p>
 
     
 
